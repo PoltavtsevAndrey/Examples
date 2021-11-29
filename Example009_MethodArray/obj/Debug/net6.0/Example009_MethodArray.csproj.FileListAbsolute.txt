@@ -1,0 +1,15 @@
+C:\Users\АЭМП-14\Desktop\Examples\Example009_MethodArray\bin\Debug\net6.0\Example009_MethodArray.exe
+C:\Users\АЭМП-14\Desktop\Examples\Example009_MethodArray\bin\Debug\net6.0\Example009_MethodArray.deps.json
+C:\Users\АЭМП-14\Desktop\Examples\Example009_MethodArray\bin\Debug\net6.0\Example009_MethodArray.runtimeconfig.json
+C:\Users\АЭМП-14\Desktop\Examples\Example009_MethodArray\bin\Debug\net6.0\Example009_MethodArray.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example009_MethodArray\bin\Debug\net6.0\ref\Example009_MethodArray.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example009_MethodArray\bin\Debug\net6.0\Example009_MethodArray.pdb
+C:\Users\АЭМП-14\Desktop\Examples\Example009_MethodArray\obj\Debug\net6.0\Example009_MethodArray.csproj.AssemblyReference.cache
+C:\Users\АЭМП-14\Desktop\Examples\Example009_MethodArray\obj\Debug\net6.0\Example009_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АЭМП-14\Desktop\Examples\Example009_MethodArray\obj\Debug\net6.0\Example009_MethodArray.AssemblyInfoInputs.cache
+C:\Users\АЭМП-14\Desktop\Examples\Example009_MethodArray\obj\Debug\net6.0\Example009_MethodArray.AssemblyInfo.cs
+C:\Users\АЭМП-14\Desktop\Examples\Example009_MethodArray\obj\Debug\net6.0\Example009_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\АЭМП-14\Desktop\Examples\Example009_MethodArray\obj\Debug\net6.0\Example009_MethodArray.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example009_MethodArray\obj\Debug\net6.0\ref\Example009_MethodArray.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example009_MethodArray\obj\Debug\net6.0\Example009_MethodArray.pdb
+C:\Users\АЭМП-14\Desktop\Examples\Example009_MethodArray\obj\Debug\net6.0\Example009_MethodArray.genruntimeconfig.cache

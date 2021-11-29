@@ -1,0 +1,15 @@
+C:\Users\АЭМП-14\Desktop\Examples\Example008_IntroArray\bin\Debug\net6.0\Example008_IntroArray.exe
+C:\Users\АЭМП-14\Desktop\Examples\Example008_IntroArray\bin\Debug\net6.0\Example008_IntroArray.deps.json
+C:\Users\АЭМП-14\Desktop\Examples\Example008_IntroArray\bin\Debug\net6.0\Example008_IntroArray.runtimeconfig.json
+C:\Users\АЭМП-14\Desktop\Examples\Example008_IntroArray\bin\Debug\net6.0\Example008_IntroArray.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example008_IntroArray\bin\Debug\net6.0\ref\Example008_IntroArray.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example008_IntroArray\bin\Debug\net6.0\Example008_IntroArray.pdb
+C:\Users\АЭМП-14\Desktop\Examples\Example008_IntroArray\obj\Debug\net6.0\Example008_IntroArray.csproj.AssemblyReference.cache
+C:\Users\АЭМП-14\Desktop\Examples\Example008_IntroArray\obj\Debug\net6.0\Example008_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АЭМП-14\Desktop\Examples\Example008_IntroArray\obj\Debug\net6.0\Example008_IntroArray.AssemblyInfoInputs.cache
+C:\Users\АЭМП-14\Desktop\Examples\Example008_IntroArray\obj\Debug\net6.0\Example008_IntroArray.AssemblyInfo.cs
+C:\Users\АЭМП-14\Desktop\Examples\Example008_IntroArray\obj\Debug\net6.0\Example008_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\АЭМП-14\Desktop\Examples\Example008_IntroArray\obj\Debug\net6.0\Example008_IntroArray.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example008_IntroArray\obj\Debug\net6.0\ref\Example008_IntroArray.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example008_IntroArray\obj\Debug\net6.0\Example008_IntroArray.pdb
+C:\Users\АЭМП-14\Desktop\Examples\Example008_IntroArray\obj\Debug\net6.0\Example008_IntroArray.genruntimeconfig.cache

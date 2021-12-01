@@ -1,0 +1,15 @@
+C:\Users\АЭМП-14\Desktop\Examples\Example012_ChangeText\obj\Debug\net6.0\Example012_ChangeText.csproj.AssemblyReference.cache
+C:\Users\АЭМП-14\Desktop\Examples\Example012_ChangeText\obj\Debug\net6.0\Example012_ChangeText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АЭМП-14\Desktop\Examples\Example012_ChangeText\obj\Debug\net6.0\Example012_ChangeText.AssemblyInfoInputs.cache
+C:\Users\АЭМП-14\Desktop\Examples\Example012_ChangeText\obj\Debug\net6.0\Example012_ChangeText.AssemblyInfo.cs
+C:\Users\АЭМП-14\Desktop\Examples\Example012_ChangeText\obj\Debug\net6.0\Example012_ChangeText.csproj.CoreCompileInputs.cache
+C:\Users\АЭМП-14\Desktop\Examples\Example012_ChangeText\bin\Debug\net6.0\Example012_ChangeText.exe
+C:\Users\АЭМП-14\Desktop\Examples\Example012_ChangeText\bin\Debug\net6.0\Example012_ChangeText.deps.json
+C:\Users\АЭМП-14\Desktop\Examples\Example012_ChangeText\bin\Debug\net6.0\Example012_ChangeText.runtimeconfig.json
+C:\Users\АЭМП-14\Desktop\Examples\Example012_ChangeText\bin\Debug\net6.0\Example012_ChangeText.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example012_ChangeText\bin\Debug\net6.0\ref\Example012_ChangeText.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example012_ChangeText\bin\Debug\net6.0\Example012_ChangeText.pdb
+C:\Users\АЭМП-14\Desktop\Examples\Example012_ChangeText\obj\Debug\net6.0\Example012_ChangeText.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example012_ChangeText\obj\Debug\net6.0\ref\Example012_ChangeText.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example012_ChangeText\obj\Debug\net6.0\Example012_ChangeText.pdb
+C:\Users\АЭМП-14\Desktop\Examples\Example012_ChangeText\obj\Debug\net6.0\Example012_ChangeText.genruntimeconfig.cache

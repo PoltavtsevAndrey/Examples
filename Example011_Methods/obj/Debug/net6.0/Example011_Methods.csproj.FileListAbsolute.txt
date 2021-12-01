@@ -1,0 +1,15 @@
+C:\Users\АЭМП-14\Desktop\Examples\Example011_Methods\obj\Debug\net6.0\Example011_Methods.csproj.AssemblyReference.cache
+C:\Users\АЭМП-14\Desktop\Examples\Example011_Methods\obj\Debug\net6.0\Example011_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АЭМП-14\Desktop\Examples\Example011_Methods\obj\Debug\net6.0\Example011_Methods.AssemblyInfoInputs.cache
+C:\Users\АЭМП-14\Desktop\Examples\Example011_Methods\obj\Debug\net6.0\Example011_Methods.AssemblyInfo.cs
+C:\Users\АЭМП-14\Desktop\Examples\Example011_Methods\obj\Debug\net6.0\Example011_Methods.csproj.CoreCompileInputs.cache
+C:\Users\АЭМП-14\Desktop\Examples\Example011_Methods\bin\Debug\net6.0\Example011_Methods.exe
+C:\Users\АЭМП-14\Desktop\Examples\Example011_Methods\bin\Debug\net6.0\Example011_Methods.deps.json
+C:\Users\АЭМП-14\Desktop\Examples\Example011_Methods\bin\Debug\net6.0\Example011_Methods.runtimeconfig.json
+C:\Users\АЭМП-14\Desktop\Examples\Example011_Methods\bin\Debug\net6.0\Example011_Methods.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example011_Methods\bin\Debug\net6.0\ref\Example011_Methods.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example011_Methods\bin\Debug\net6.0\Example011_Methods.pdb
+C:\Users\АЭМП-14\Desktop\Examples\Example011_Methods\obj\Debug\net6.0\Example011_Methods.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example011_Methods\obj\Debug\net6.0\ref\Example011_Methods.dll
+C:\Users\АЭМП-14\Desktop\Examples\Example011_Methods\obj\Debug\net6.0\Example011_Methods.pdb
+C:\Users\АЭМП-14\Desktop\Examples\Example011_Methods\obj\Debug\net6.0\Example011_Methods.genruntimeconfig.cache
